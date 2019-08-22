@@ -1,0 +1,11 @@
+Design a prog for banking system in which three entities exists as employee, main server and account holder
+Banking is doing following process for account manage
+Deposit
+Withdraw
+Credit
+Debit
+Balance
+Case1:
+If acc is nil client cannot access the following process is restrict
+i)Withdraw 
+ii)Fund transfer

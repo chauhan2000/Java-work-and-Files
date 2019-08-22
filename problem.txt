@@ -1,0 +1,21 @@
+class trnsmgnt
+{
+public void vehicle(int vid)
+{
+	system.out.print("vehicles available"); 
+	system.out.print(tid);
+}
+public void vehicle(string state, int num)
+{
+	system.out.print("vehicles which are booked");
+	system.out.print(state + " " +num);
+}
+class example
+{
+   public static void main(String args[])
+   {
+       trnsmgnt obj = new trnsmgnt();
+       obj.vehicle('2525');
+       obj.vehicle('UP',5455);
+   }
+}

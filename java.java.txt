@@ -1,0 +1,7 @@
+java program for printing hello
+
+public class hello{
+public static void main(string args[]){
+sysutem.out.println("hello");
+}
+}

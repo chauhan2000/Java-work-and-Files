@@ -1,0 +1,59 @@
+class mig
+{
+int n;
+string name;
+void fly()
+{
+system.out.print("it is ready to fly");
+}
+int getid(int n)
+{
+number = n;
+}
+string getname (string name)
+{
+nme =name;
+}
+void display()
+{
+system.out.println("ID is :" + n);
+system.out.println("name is :" nme);
+}
+}
+
+
+class pilot extends mig
+{ int p;
+int getid( int p)
+{
+value =p;
+}
+string getname (string nam)
+{
+namw =nam;
+}
+void display()
+{ }
+}
+}
+class copilot extends pilot
+{
+int q;
+int getid( int q)
+{
+test =q;
+}
+string getname (string namee)
+{
+namq =namee;
+}
+void checkfun()
+{
+system.out.print("check functions");
+}
+void checkarmor()
+{
+system.out.print("checking armor"); // checkking whether the armor is full or not using the if else loop
+if (armor = 0)
+sytem.out.print
+}

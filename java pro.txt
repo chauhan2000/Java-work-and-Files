@@ -1,0 +1,12 @@
+abstract class bike ()
+abstract void run();
+{
+public class bike {
+void run()
+{
+system.out.println("abstraction example");
+}
+}
+public static void main(String[] args) {
+bike ob = new honda4();
+}

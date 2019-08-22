@@ -1,0 +1,19 @@
+public class calculation
+{
+ char fun (char c)
+{
+system.out.println("hello");
+}
+int fun (int a)
+{
+system.out.println("hell");
+}
+}
+class example
+{
+public static void main (String [] args)
+{
+calculation obj = new calculation();
+obj.fun(c);
+}
+} 
